@@ -1,5 +1,5 @@
 ## TTG or Talk2God 
-I was inspired by my personal journey with respect to understanding spirituality. And I came up with this idea that the almighty G gave us power to choose (or you may call it agency), so I wanted to try to use the skills I have learned (i.e. understanding the mechanism behind The Generaitve Pretrained Transformers) to create something to show gratitude. A chat bot that will be trained on scriptures, testimonies, and other relevant data points to help people 
+I was inspired by my personal journey with respect to understanding spirituality. And I came up with this idea that the almighty G gave us power to choose (or you may call it agency), so I wanted to try to use the skills I have learned (i.e. understanding the mechanism behind The Generaitve Pretrained Transformers) to create something to show gratitude. A chatbot that will be trained on scriptures, testimonies, and other relevant data points to help people 
 understand themselves, discover their identities through JC, the almighty heavenly father, and potentially find a solution for their spiritual barricade. 
 
 ## Methods 
